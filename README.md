@@ -6,8 +6,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Kris24Toth/vulnerability-management-program/tree/main)**
-  
-
+ 
+- **[Threat-Hunting-Scenario-Tor](https://github.com/Kris24Toth/threat-hunting-scenario-tor)**
 
 
 <hr/>
